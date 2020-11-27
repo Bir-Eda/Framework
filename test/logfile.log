@@ -1,0 +1,61 @@
+2020-11-27 14:32:39,604 : INFO : test_e2e : Product name ==> iphone X
+2020-11-27 14:32:39,638 : INFO : test_e2e : Product name ==> iphone X
+2020-11-27 14:32:39,669 : INFO : test_e2e : Product name ==> iphone X
+2020-11-27 14:32:39,709 : INFO : test_e2e : Product name ==> iphone X
+2020-11-27 14:32:39,985 : INFO : test_e2e : Typing a country name
+2020-11-27 14:32:45,858 : INFO : test_e2e : The alert message ==> ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-27 14:33:56,328 : INFO : test_homepage : first name is Birsen
+2020-11-27 14:34:02,312 : INFO : test_homepage : Sending credentials
+2020-11-27 14:34:06,269 : INFO : test_homepage : first name is Birsen
+2020-11-27 14:34:06,269 : INFO : test_homepage : first name is Birsen
+2020-11-27 14:34:11,107 : INFO : test_homepage : Sending credentials
+2020-11-27 14:34:11,107 : INFO : test_homepage : Sending credentials
+2020-11-27 14:34:14,746 : INFO : test_homepage : first name is Esra
+2020-11-27 14:34:14,746 : INFO : test_homepage : first name is Esra
+2020-11-27 14:34:14,746 : INFO : test_homepage : first name is Esra
+2020-11-27 14:34:19,718 : INFO : test_homepage : Sending credentials
+2020-11-27 14:34:19,718 : INFO : test_homepage : Sending credentials
+2020-11-27 14:34:19,718 : INFO : test_homepage : Sending credentials
+2020-11-27 14:34:22,807 : INFO : test_homepage : first name is Esra
+2020-11-27 14:34:22,807 : INFO : test_homepage : first name is Esra
+2020-11-27 14:34:22,807 : INFO : test_homepage : first name is Esra
+2020-11-27 14:34:22,807 : INFO : test_homepage : first name is Esra
+2020-11-27 14:34:27,487 : INFO : test_homepage : Sending credentials
+2020-11-27 14:34:27,487 : INFO : test_homepage : Sending credentials
+2020-11-27 14:34:27,487 : INFO : test_homepage : Sending credentials
+2020-11-27 14:34:27,487 : INFO : test_homepage : Sending credentials
+2020-11-27 14:34:43,239 : INFO : test_e2e : Product name ==> iphone X
+2020-11-27 14:34:43,271 : INFO : test_e2e : Product name ==> iphone X
+2020-11-27 14:34:43,301 : INFO : test_e2e : Product name ==> iphone X
+2020-11-27 14:34:43,327 : INFO : test_e2e : Product name ==> iphone X
+2020-11-27 14:34:43,604 : INFO : test_e2e : Typing a country name
+2020-11-27 14:34:49,523 : INFO : test_e2e : The alert message ==> ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-27 14:45:34,046 : INFO : test_homepage : first name is Birsen
+2020-11-27 14:45:38,739 : INFO : test_homepage : Sending credentials
+2020-11-27 14:45:41,508 : INFO : test_homepage : first name is Birsen
+2020-11-27 14:45:41,508 : INFO : test_homepage : first name is Birsen
+2020-11-27 14:45:46,483 : INFO : test_homepage : Sending credentials
+2020-11-27 14:45:46,483 : INFO : test_homepage : Sending credentials
+2020-11-27 14:45:49,126 : INFO : test_homepage : first name is Esra
+2020-11-27 14:45:49,126 : INFO : test_homepage : first name is Esra
+2020-11-27 14:45:49,126 : INFO : test_homepage : first name is Esra
+2020-11-27 14:45:53,775 : INFO : test_homepage : Sending credentials
+2020-11-27 14:45:53,775 : INFO : test_homepage : Sending credentials
+2020-11-27 14:45:53,775 : INFO : test_homepage : Sending credentials
+2020-11-27 14:45:56,648 : INFO : test_homepage : first name is Esra
+2020-11-27 14:45:56,648 : INFO : test_homepage : first name is Esra
+2020-11-27 14:45:56,648 : INFO : test_homepage : first name is Esra
+2020-11-27 14:45:56,648 : INFO : test_homepage : first name is Esra
+2020-11-27 14:46:01,605 : INFO : test_homepage : Sending credentials
+2020-11-27 14:46:01,605 : INFO : test_homepage : Sending credentials
+2020-11-27 14:46:01,605 : INFO : test_homepage : Sending credentials
+2020-11-27 14:46:01,605 : INFO : test_homepage : Sending credentials
+2020-11-27 14:46:17,269 : INFO : test_e2e : Product name ==> iphone X
+2020-11-27 14:46:17,298 : INFO : test_e2e : Product name ==> iphone X
+2020-11-27 14:46:17,330 : INFO : test_e2e : Product name ==> iphone X
+2020-11-27 14:46:17,354 : INFO : test_e2e : Product name ==> iphone X
+2020-11-27 14:46:17,634 : INFO : test_e2e : Typing a country name
+2020-11-27 14:46:23,674 : INFO : test_e2e : The alert message ==> ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
